@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f/icQ+Hhoaz2HWU1HyS+6zI+5zsFUpFKL9BbY1qlE+U=",
+  "Source": "bancoAlimentosApi",
+  "BasePath": "_content/bancoAlimentosApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
